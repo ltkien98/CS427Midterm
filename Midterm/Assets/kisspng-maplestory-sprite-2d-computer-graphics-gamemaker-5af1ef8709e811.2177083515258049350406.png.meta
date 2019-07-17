@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 5ea8a3c3ce4a1624eab056e7c4db47cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7938639069239446154
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_0
+  - first:
+      213: -757175909208909116
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_1
+  - first:
+      213: 4267932887280476693
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_2
+  - first:
+      213: -4177776423774183470
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_3
+  - first:
+      213: -4122600119347310141
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_4
+  - first:
+      213: 722445582155637146
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_5
+  - first:
+      213: -4283644181904457794
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_6
+  - first:
+      213: -26448906352497597
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_7
+  - first:
+      213: 7068171756164357102
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_8
+  - first:
+      213: -367958728949230781
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_9
+  - first:
+      213: -6612480804287362235
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_10
+  - first:
+      213: -1579457721925285107
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_11
+  - first:
+      213: -2243166189455542522
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_12
+  - first:
+      213: 1533667445552481955
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_13
+  - first:
+      213: -2671949578996656881
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_14
+  - first:
+      213: 6167489601809022207
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_15
+  - first:
+      213: -560296890416160436
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_16
+  - first:
+      213: 4517507304365252696
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_17
+  - first:
+      213: -1791162998026998249
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_18
+  - first:
+      213: -1854569086493785308
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_19
+  - first:
+      213: 2086941012725884691
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_20
+  - first:
+      213: -1497281541469646446
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_21
+  - first:
+      213: 7381253593954800904
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_22
+  - first:
+      213: 7505233834578189503
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_23
+  - first:
+      213: 332782196378475181
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_24
+  - first:
+      213: -6116286046210187084
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_25
+  - first:
+      213: -5540891862319460894
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_26
+  - first:
+      213: -292097932969309427
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_27
+  - first:
+      213: -7601282698235802617
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_28
+  - first:
+      213: 2833593875554663021
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_29
+  - first:
+      213: -2666607293892695624
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_30
+  - first:
+      213: -5363930466291206259
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_31
+  - first:
+      213: -8285933603060435179
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_32
+  - first:
+      213: -6741294198630552365
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_33
+  - first:
+      213: -8196729489750910115
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_34
+  - first:
+      213: 2351388590993169734
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_35
+  - first:
+      213: -2197223568662367004
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_36
+  - first:
+      213: 633765589592604187
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_37
+  - first:
+      213: -8016729784314549641
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_38
+  - first:
+      213: 2735304329698797994
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_39
+  - first:
+      213: -1738237743411353427
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_40
+  - first:
+      213: -4148680714478104419
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_41
+  - first:
+      213: 1639036426538480219
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_42
+  - first:
+      213: 6333049442748526248
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_43
+  - first:
+      213: 7582554997269317671
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_44
+  - first:
+      213: 5945932021150641732
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_45
+  - first:
+      213: 8263493313124147035
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_46
+  - first:
+      213: 7754676725307752565
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_47
+  - first:
+      213: -5736715915746964290
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_48
+  - first:
+      213: 457619092095752670
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_49
+  - first:
+      213: -4952034559092827369
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_50
+  - first:
+      213: -2093140489050834279
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_51
+  - first:
+      213: -4925140432925741732
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_52
+  - first:
+      213: -8162825306210074993
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_53
+  - first:
+      213: 3213744917343277084
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_54
+  - first:
+      213: -4812392074219514835
+    second: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee0233397bd39458662daa5e5b0f7d
+      internalID: 7938639069239446154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 400
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27dc3d33d6e3484a937356494bcf1b1
+      internalID: -757175909208909116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 402
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a87dc2eeda7c4182c18366002866c
+      internalID: 4267932887280476693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 409
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d826a9b10f5344fbb48def6db6904e
+      internalID: -4177776423774183470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 406
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d948670c6798b43842e3e53cf65f4c
+      internalID: -4122600119347310141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_5
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 413
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d12887d0861cf744852694dd70fb5e3
+      internalID: 722445582155637146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 416
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb81424d43b0004ea87fbd4ef9ed568
+      internalID: -4283644181904457794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 415
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6a3f059563b5e4198ceebb7b836d53
+      internalID: -26448906352497597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_8
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 419
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e628b3e13f0d24abbad3ae1ce1f5a3
+      internalID: 7068171756164357102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_9
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 420
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969bf6e8c9090c479a8805ce4df6d9c
+      internalID: -367958728949230781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 283
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca499e7b57191041a77f8e3e431a971
+      internalID: -6612480804287362235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 282
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9a8534760a6204db5b292e1bc83db7
+      internalID: -1579457721925285107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 284
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87878abaeae5c6a448015a68615f83da
+      internalID: -2243166189455542522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 286
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d7813cea9af0f4393c2e73d7808afa
+      internalID: 1533667445552481955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 284
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c6759802a806439357562db7a282a
+      internalID: -2671949578996656881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 279
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fc5bea19bd9df4285a5bf45c34df99
+      internalID: 6167489601809022207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 281
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9564b92d85730c545a10c259ea31efe6
+      internalID: -560296890416160436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_17
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 279
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43100d7cfd69544188ed09b53c9c7a0
+      internalID: 4517507304365252696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_18
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 281
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6e01c66acb80542a6432f325f9c027
+      internalID: -1791162998026998249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_19
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 286
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f806521b2dbbb74f83989f54dd5a9e0
+      internalID: -1854569086493785308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 193
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3801077b3f177d4fa76f0d11890fc7c
+      internalID: 2086941012725884691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 189
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc12d9de0d8a2745ba01b6c9debc365
+      internalID: -1497281541469646446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 186
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bdcc78c709b5e40a04b473bdaae264
+      internalID: 7381253593954800904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 184
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c812dadaf233d41b7ab56c3e12fb1b
+      internalID: 7505233834578189503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 182
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0002bc14c6a05094faa362d52b51500b
+      internalID: 332782196378475181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 177
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec2dc52843899143b1832525403fe05
+      internalID: -6116286046210187084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 175
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026be322abefcff48b6e6440e4bf621f
+      internalID: -5540891862319460894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 175
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1475fb64e3aaeb84fac4fe5f1ca48a00
+      internalID: -292097932969309427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_28
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 173
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cfae6efb8f05f47ab726f69f69ceab
+      internalID: -7601282698235802617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_29
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 171
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b3283fa89e2b141b460d660b1d855b
+      internalID: 2833593875554663021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_30
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 165
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28d213daeec86642908e956dc2d920f
+      internalID: -2666607293892695624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 85
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f344bf7074d36246b34d56e45373716
+      internalID: -5363930466291206259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 89
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa3d5af513a0284aaeaa5adb40f8e8b
+      internalID: -8285933603060435179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 91
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a49869df1cdfa948b4c6031cf9f858e
+      internalID: -6741294198630552365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 84
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e244273f7ca2c458f51262f1ebc5bb
+      internalID: -8196729489750910115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 81
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4f9f872bad884484bd99b2e878f0c
+      internalID: 2351388590993169734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_36
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 79
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ecded3c5dc60b4b91e8e07f1d96a53
+      internalID: -2197223568662367004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_37
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 81
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea81008a9dad0ed4c8d653850553357d
+      internalID: 633765589592604187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 77
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e184ca7b5572f242b09193a54261fa3
+      internalID: -8016729784314549641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_39
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 122
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31afbbabd77a1294c9e26d4a950533a5
+      internalID: 2735304329698797994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_40
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 74
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2600f66e63882e449c724fd04c4ecce
+      internalID: -1738237743411353427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_41
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 83
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1bcc98a4db924ea1f59ae2ea4fa61
+      internalID: -4148680714478104419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6c62a6eea697841817d40af5f68fb4
+      internalID: 1639036426538480219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_43
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 66
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cc281c3b66d934783c2b54b443b67d
+      internalID: 6333049442748526248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_44
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 69
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534686a20ef94cd42947240674446f33
+      internalID: 7582554997269317671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_45
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 70
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a9c4ca3ecd6746a149cd9eb678777
+      internalID: 5945932021150641732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 18
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fde480b74e5bc4aae1d2582dcc9dac
+      internalID: 8263493313124147035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 22
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4502e1ff8a3c44087b636b63def3a7
+      internalID: 7754676725307752565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 17
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a666a6dacefec42b7c2a0a35fdbec8
+      internalID: -5736715915746964290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6039a4e85bf3b4242acd0d40833cb893
+      internalID: 457619092095752670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_50
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 10
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd237be36e2d948914aec38d9f5fec
+      internalID: -4952034559092827369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_51
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 13
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a624eff1f8bdc8f44a17c58b89f358aa
+      internalID: -2093140489050834279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 12
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534c83a621f1fbb499bd9d47e78f43c1
+      internalID: -4925140432925741732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_53
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 8
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77555095dd996f429c292c8acb75fe9
+      internalID: -8162825306210074993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_54
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 7
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab64bdc3c9133a2448560d8f60011a86
+      internalID: 3213744917343277084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-maplestory-sprite-2d-computer-graphics-gamemaker-5af1ef8709e811.2177083515258049350406_55
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 5
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972fb858238f67146bd3796b576b9d22
+      internalID: -4812392074219514835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 08c7d192d0a0da3478c352ca9c1f1492
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
