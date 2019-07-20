@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Begin : MonoBehaviour
 {
+    public string level;
     // Start is called before the first frame update
     public void loadScene(string level)
     {

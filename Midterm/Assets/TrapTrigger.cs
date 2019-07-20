@@ -17,5 +17,9 @@ public class TrapTrigger : MonoBehaviour
     {
         
     }
-    
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        trap.SetActive(true);
+    }
+
 }

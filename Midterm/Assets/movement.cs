@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class movement : MonoBehaviour
 {
@@ -9,6 +10,8 @@ public class movement : MonoBehaviour
     public float speed = 20f;
     public float jump = 800f;
     int jumpCount = 0;
+      
+    
 
     void Start()
     {
@@ -45,5 +48,6 @@ public class movement : MonoBehaviour
         jumpCount = 0;
         
     }
-
+    
+    
 }
