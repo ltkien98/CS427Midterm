@@ -1,0 +1,1539 @@
+fileFormatVersion: 2
+guid: 5eccf98deffa3064d83ea8263525f3e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6280631124819935909
+    second: PC Computer - MapleStory - Bacal_0
+  - first:
+      213: 7308866241033463231
+    second: PC Computer - MapleStory - Bacal_1
+  - first:
+      213: -925335436286514001
+    second: PC Computer - MapleStory - Bacal_2
+  - first:
+      213: 7043839643339613266
+    second: PC Computer - MapleStory - Bacal_3
+  - first:
+      213: 6365098546730625614
+    second: PC Computer - MapleStory - Bacal_4
+  - first:
+      213: -6586385548474431422
+    second: PC Computer - MapleStory - Bacal_5
+  - first:
+      213: 5272506155605423996
+    second: PC Computer - MapleStory - Bacal_6
+  - first:
+      213: -8359339552275928003
+    second: PC Computer - MapleStory - Bacal_7
+  - first:
+      213: 4374649189036065687
+    second: PC Computer - MapleStory - Bacal_8
+  - first:
+      213: -979775650890344495
+    second: PC Computer - MapleStory - Bacal_9
+  - first:
+      213: -6582840229590016371
+    second: PC Computer - MapleStory - Bacal_10
+  - first:
+      213: 2777421072093188785
+    second: PC Computer - MapleStory - Bacal_11
+  - first:
+      213: 9017900321859242699
+    second: PC Computer - MapleStory - Bacal_12
+  - first:
+      213: -5773197135784045487
+    second: PC Computer - MapleStory - Bacal_13
+  - first:
+      213: 8778538852643606313
+    second: PC Computer - MapleStory - Bacal_14
+  - first:
+      213: -6192918550467498410
+    second: PC Computer - MapleStory - Bacal_15
+  - first:
+      213: -772834459753351419
+    second: PC Computer - MapleStory - Bacal_16
+  - first:
+      213: -2527875206443856634
+    second: PC Computer - MapleStory - Bacal_17
+  - first:
+      213: 3300478225175491448
+    second: PC Computer - MapleStory - Bacal_18
+  - first:
+      213: -8314793729707782255
+    second: PC Computer - MapleStory - Bacal_19
+  - first:
+      213: -202778030317020236
+    second: PC Computer - MapleStory - Bacal_20
+  - first:
+      213: -3912040200323106213
+    second: PC Computer - MapleStory - Bacal_21
+  - first:
+      213: 4701064078508057461
+    second: PC Computer - MapleStory - Bacal_22
+  - first:
+      213: -7259749883663580813
+    second: PC Computer - MapleStory - Bacal_23
+  - first:
+      213: 6262028597871566785
+    second: PC Computer - MapleStory - Bacal_24
+  - first:
+      213: -451877852052364379
+    second: PC Computer - MapleStory - Bacal_25
+  - first:
+      213: -1713825014114080696
+    second: PC Computer - MapleStory - Bacal_26
+  - first:
+      213: -885002314949830632
+    second: PC Computer - MapleStory - Bacal_27
+  - first:
+      213: 8038864232563927560
+    second: PC Computer - MapleStory - Bacal_28
+  - first:
+      213: 5696826068148618005
+    second: PC Computer - MapleStory - Bacal_29
+  - first:
+      213: 5050594338636831240
+    second: PC Computer - MapleStory - Bacal_30
+  - first:
+      213: -7140924384899367903
+    second: PC Computer - MapleStory - Bacal_31
+  - first:
+      213: 7579681261788963759
+    second: PC Computer - MapleStory - Bacal_32
+  - first:
+      213: 7526892546634604540
+    second: PC Computer - MapleStory - Bacal_33
+  - first:
+      213: 6077387278555341490
+    second: PC Computer - MapleStory - Bacal_34
+  - first:
+      213: -8805590453950466983
+    second: PC Computer - MapleStory - Bacal_35
+  - first:
+      213: 7009676548085706684
+    second: PC Computer - MapleStory - Bacal_36
+  - first:
+      213: 8327640545857926003
+    second: PC Computer - MapleStory - Bacal_37
+  - first:
+      213: -1265876535152957542
+    second: PC Computer - MapleStory - Bacal_38
+  - first:
+      213: -432595744819388626
+    second: PC Computer - MapleStory - Bacal_39
+  - first:
+      213: -5944244445183327282
+    second: PC Computer - MapleStory - Bacal_40
+  - first:
+      213: 2928388543427852787
+    second: PC Computer - MapleStory - Bacal_41
+  - first:
+      213: 6349659633409717654
+    second: PC Computer - MapleStory - Bacal_42
+  - first:
+      213: -6646989734615983080
+    second: PC Computer - MapleStory - Bacal_43
+  - first:
+      213: 6683258798451235383
+    second: PC Computer - MapleStory - Bacal_44
+  - first:
+      213: 6192107525040649679
+    second: PC Computer - MapleStory - Bacal_45
+  - first:
+      213: 3660097924463218048
+    second: PC Computer - MapleStory - Bacal_46
+  - first:
+      213: -7366916188351382344
+    second: PC Computer - MapleStory - Bacal_47
+  - first:
+      213: -1279654973118479944
+    second: PC Computer - MapleStory - Bacal_48
+  - first:
+      213: 616235413609075842
+    second: PC Computer - MapleStory - Bacal_49
+  - first:
+      213: 7185265220498131374
+    second: PC Computer - MapleStory - Bacal_50
+  - first:
+      213: -7534234349684013039
+    second: PC Computer - MapleStory - Bacal_51
+  - first:
+      213: 6192820133176579631
+    second: PC Computer - MapleStory - Bacal_52
+  - first:
+      213: -6998711359480454571
+    second: PC Computer - MapleStory - Bacal_53
+  - first:
+      213: 8078753476351251502
+    second: PC Computer - MapleStory - Bacal_54
+  - first:
+      213: -4511801243771973667
+    second: PC Computer - MapleStory - Bacal_55
+  - first:
+      213: 7925759343612447325
+    second: PC Computer - MapleStory - Bacal_56
+  - first:
+      213: 5084842836662501790
+    second: PC Computer - MapleStory - Bacal_57
+  - first:
+      213: 4744582645368250561
+    second: PC Computer - MapleStory - Bacal_58
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 253
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99450f89ae498764d85deae75a4dc13b
+      internalID: -6280631124819935909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 253
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9db44508af9954591b4be9d9c329b1
+      internalID: 7308866241033463231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 252
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6118f572ccc478e4185e8c86e7162b0e
+      internalID: -925335436286514001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 252
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c724464661b442c48933fef840acfee0
+      internalID: 7043839643339613266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 169
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b6eb724805f964d980a75bec28de6e
+      internalID: 6365098546730625614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 169
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fca43fd62bf0a4a9bd1c677f804794
+      internalID: -6586385548474431422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 169
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de972ae7af33ff478506c4117e6b4bc
+      internalID: 5272506155605423996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 169
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5408b33fd0ff7d0469262a21392ccc26
+      internalID: -8359339552275928003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 169
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0582728f6d3cfd48a1e14562f6320be
+      internalID: 4374649189036065687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 225
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb2d128efe282c4da51c4776c52e23a
+      internalID: -979775650890344495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 169
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08716a0c0553d6c44bc7146c70c6fcce
+      internalID: -6582840229590016371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 213
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b81d96f75310c43963b727e42714e3
+      internalID: 2777421072093188785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 216
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e3f2cef2aa32c468eb8e29b761038b
+      internalID: 9017900321859242699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 212
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b03ce75d513dc342a9e9806534c5424
+      internalID: -5773197135784045487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_14
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 218
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b251ba531651fc4ebf90c41d506e2cf
+      internalID: 8778538852643606313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 210
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee35dcad9cc6bf498e5be4b5a0e1885
+      internalID: -6192918550467498410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 212
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18c14913a121894587de93234d8e469
+      internalID: -772834459753351419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2d3e63becd47c43a8dc93a95efbea6
+      internalID: -2527875206443856634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 91
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0e247af20e2844aeebb8e0443cf89
+      internalID: 3300478225175491448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c84cbd106ffe04b8de2019e4a9a1c2
+      internalID: -8314793729707782255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 129
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d0cf95de9da6e4cabeb9a92db5ce82
+      internalID: -202778030317020236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 129
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ae5d64419e9cd4ab585ef2eddb9ca1
+      internalID: -3912040200323106213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 132
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932bb51b84acd3240a898760b5f1d15f
+      internalID: 4701064078508057461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 132
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c178d2543d99e3040be13c7489b24680
+      internalID: -7259749883663580813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 132
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e678d06d331264390f38ab8a6422b2
+      internalID: 6262028597871566785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 129
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c76c21dd4b4dff4ba297754cb2226a7
+      internalID: -451877852052364379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 132
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acb88681045ebd49b3fb0bd02cb50ea
+      internalID: -1713825014114080696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 132
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca21d3b21d282240b03367b5eef6336
+      internalID: -885002314949830632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_28
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 129
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e2a3e7a4861245ab17aca38826ba5
+      internalID: 8038864232563927560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 132
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9651b0c9458bfcf4d8a612880bac8b60
+      internalID: 5696826068148618005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_30
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 132
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa92d7e99e931c44a026ade5cea414e
+      internalID: 5050594338636831240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 132
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4eaf8a48df17d448d862dac6569d74
+      internalID: -7140924384899367903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_32
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee548e47e554b946b0343560c3dee1b
+      internalID: 7579681261788963759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 116
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b763673c434ed449bf4c3f2c458c54
+      internalID: 7526892546634604540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 116
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742bc882b1a9ba34e87cf5bf26b4cf92
+      internalID: 6077387278555341490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 116
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8cf96ea65638149881481a29a5c694
+      internalID: -8805590453950466983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 116
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21635e2a52a0c704face4d0000ef65e3
+      internalID: 7009676548085706684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 113
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a9661100a2382418e920e9b82c95d1
+      internalID: 8327640545857926003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 113
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9f3f0399b8a31438d47236abcd431e
+      internalID: -1265876535152957542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_39
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 116
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a4ae9340a6cb84d9d7470a35e0e099
+      internalID: -432595744819388626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_40
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 116
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1095c27cef9e033449e43381ea79f69e
+      internalID: -5944244445183327282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_41
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 116
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f796a8b65db3134c9a85d29207b96be
+      internalID: 2928388543427852787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 116
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90654334cd02dfe4799343712e539d0f
+      internalID: 6349659633409717654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_43
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 116
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c30f08e5eea244db90f334f8b83c3d
+      internalID: -6646989734615983080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6271e0d31da42498cf68fd7f384db0
+      internalID: 6683258798451235383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 100
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17248f8a8dc0c0d4cb86e39a69eff1c0
+      internalID: 6192107525040649679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_46
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 97
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a86f4c3404991546ae3445e20602299
+      internalID: 3660097924463218048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_47
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 100
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c453782a4817ea447af9fb2726e25fa2
+      internalID: -7366916188351382344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_48
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 100
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c54f229b490ee48b26ffd04c1e6467
+      internalID: -1279654973118479944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef381938a0d4d3f41add47b43aa5552c
+      internalID: 616235413609075842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_50
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 100
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29f9f0fd3669a4ba70787c226d34ff
+      internalID: 7185265220498131374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_51
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 100
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55749841c87f47740baa7699cfb360de
+      internalID: -7534234349684013039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87e9ffbcfe92f9439e083129f5a9d0b
+      internalID: 6192820133176579631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 13
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b29f730b6cff0947b93be7fc04e2d0c
+      internalID: -6998711359480454571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_54
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 13
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337aafbc0e7a9f14ea5a0a6516401d0d
+      internalID: 8078753476351251502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_55
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 42
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f94c9bcb7d12046815d17447343edb
+      internalID: -4511801243771973667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_56
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 13
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4088fc1112f8f349998a766fb44fcbc
+      internalID: 7925759343612447325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_57
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 13
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15528b4657a9c114f888304f469f77b6
+      internalID: 5084842836662501790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Bacal_58
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 13
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572d06ce907a0794882a27bdc3e90a44
+      internalID: 4744582645368250561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e5d7291d65d6cc44694440ee264c722e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
